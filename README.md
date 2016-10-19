@@ -66,12 +66,8 @@ Phạm Thị Diễm Trinh
 ### 3.Do...While
 **Cú pháp:**
 
-`do
-{
-   lệnh hoặc khối lệnh;
+`do {lệnh hoặc khối lệnh;} while( biểu thức );`
 
-} while( biểu thức );
-`
 *Trong đó:*
 - Lệnh( khối lệnh): được thực hiện ngay khi bắt đầu vòng lặp.
 - Biểu thức : được kiểm tra sau khi thực hiện lệnh (khối lệnh). Nếu biểu thức cho giá trị True quay lại thực hiện tiếp lệnh hoặc khối lệnh. Ngược lại nếu biểu thức có giá trị False thì dừng vòng lặp.
